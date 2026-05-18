@@ -1,7 +1,6 @@
-
 # Hi, I'm Tilen 👋
 
-R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology and laser-tissue interaction. Physics by training, programmer by choice.
+R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology and laser-tissue interaction. Physics by training, programmer by necessity — and then by choice.
 
 ## What I work on
 
@@ -18,6 +17,8 @@ CUDA / C         ████████░░░░░░  Intermediate
 Matlab / Qt      ████████░░░░░░  Intermediate
 Rust             ████░░░░░░░░░░  Learning
 ```
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZ387&layout=compact&theme=default&hide_border=true)
 
 ## A few things I've built
 

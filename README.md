@@ -1,12 +1,11 @@
 # Hi, I'm Tilen 👋
 
-R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology and laser-tissue interaction. Physics by training, programmer by necessity — and then by choice.
+I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology, laser-tissue interaction, and other fields of physics. Physics by training, programmer by choice.
 
 ## What I work on
 
-- **Numerical simulations** — laser resonators, RF heating, magnetic field calculations
-- **Scientific computing** — C++, Julia, Python, CUDA; whatever the problem calls for
-- **Research** — a few publications on laser physics and condensation along the way
+- **Numerical simulations** — laser resonators, RF heating, magnetic field calculations etc.
+- **Research** — a few publications in various areas of physics.
 
 ## Tech
 

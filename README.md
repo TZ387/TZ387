@@ -27,6 +27,13 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZ387&layout=compact&theme=default&hide_border=true)
 
+## Languages
+
+![Slovenian](https://img.shields.io/badge/🇸🇮_Slovenian-Native-2E86AB?style=flat)
+![English](https://img.shields.io/badge/🇬🇧_English-Fluent-2E86AB?style=flat)
+![Croatian](https://img.shields.io/badge/🇭🇷_Croatian-Good-4A90A4?style=flat)
+![German](https://img.shields.io/badge/🇩🇪_German-Beginner-A8C5DA?style=flat)
+
 ## A few things I've built
 
 - **[ArrheniusCalculator](https://github.com/TZ387/ArrheniusCalculator)** — Python + Qt/QML tool for Arrhenius calculations

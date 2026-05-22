@@ -1,10 +1,10 @@
 # Hi, I'm Tilen 👋
 
-I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology, laser-tissue interaction, and other fields of physics. Physics by training, programmer by choice.
+I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology, light-tissue interaction, and other fields of physics. Physicist by education, programmer by choice.
 
 ## What I work on
 
-- **Numerical simulations** — laser resonators, RF heating, magnetic field calculations etc.
+- **Numerical simulations** — light-tissue interaction, laser resonators, magnetic field calculations etc.
 - **Research** — a few publications in various areas of physics.
 
 ## Tech
@@ -21,7 +21,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 **GUI**  
 ![Qt](https://img.shields.io/badge/Qt/QML-41CD52?style=flat&logo=qt&logoColor=white)
 
-**Systems & Exploring**  
+**Exploring**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
@@ -39,7 +39,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 - **[ArrheniusCalculator](https://github.com/TZ387/ArrheniusCalculator)** — Python + Qt/QML tool for Arrhenius calculations
 - **[darkcoverage](https://github.com/TZ387/darkcoverage)** — Python + Qt project
 - Laser resonator simulation using 2D FFT (Julia)
-- 3D RF heat distribution simulation for arbitrary boundary conditions (Julia)
+- 3D Radiofrequency simulation for arbitrary boundary conditions (Julia)
 - CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox (Matlab, C++, Cuda)
 
 ## Publications
@@ -49,5 +49,3 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 - *Condensation of water vapor from humid air inside vertical channels formed by flat plates* — iScience, 2022
 
 ---
-
-Always curious, always learning.

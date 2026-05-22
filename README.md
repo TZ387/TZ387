@@ -6,7 +6,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 
 - **Numerical simulations** — laser resonators, RF heating, magnetic field calculations etc.
 - **Research** — a few publications in various areas of physics.
-- 
+
 ## Tech
 
 **Simulations & Numerics**  
@@ -32,15 +32,15 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 ![Slovenian](https://img.shields.io/badge/🇸🇮_Slovenian-Native-2E86AB?style=flat)
 ![English](https://img.shields.io/badge/🇬🇧_English-Fluent-2E86AB?style=flat)
 ![Croatian](https://img.shields.io/badge/🇭🇷_Croatian-Good-4A90A4?style=flat)
-![German](https://img.shields.io/badge/🇩🇪_German-Beginner-A8C5DA?style=flat)
+![German](https://img.shields.io/badge/🇩🇪_German-Intermediate-A8C5DA?style=flat)
 
 ## A few things I've built
 
 - **[ArrheniusCalculator](https://github.com/TZ387/ArrheniusCalculator)** — Python + Qt/QML tool for Arrhenius calculations
 - **[darkcoverage](https://github.com/TZ387/darkcoverage)** — Python + Qt project
-- Laser resonator simulation using 2D FFT (Julia, internal at Fotona)
+- Laser resonator simulation using 2D FFT (Julia)
 - 3D RF heat distribution simulation for arbitrary boundary conditions (Julia)
-- CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox
+- CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox (Matlab, C++, Cuda)
 
 ## Publications
 

@@ -6,16 +6,24 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 
 - **Numerical simulations** — laser resonators, RF heating, magnetic field calculations etc.
 - **Research** — a few publications in various areas of physics.
-
+- 
 ## Tech
 
-```
-C++ / Julia      ████████████░░  Advanced
-Python           ████████████░░  Advanced
-CUDA / C         ████████░░░░░░  Intermediate
-Matlab / Qt      ████████░░░░░░  Intermediate
-Rust             ████░░░░░░░░░░  Learning
-```
+**Simulations & Numerics**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Scripting & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**GUI**  
+![Qt](https://img.shields.io/badge/Qt/QML-41CD52?style=flat&logo=qt&logoColor=white)
+
+**Systems & Exploring**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZ387&layout=compact&theme=default&hide_border=true)
 

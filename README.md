@@ -25,8 +25,6 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZ387&layout=compact&theme=default&hide_border=true)
-
 ## Languages
 
 ![Slovenian](https://img.shields.io/badge/🇸🇮_Slovenian-Native-2E86AB?style=flat)
@@ -46,6 +44,6 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 
 - *Influence of tissue desiccation on critical temperature for thermal damage during Er:YAG laser skin treatments* — Lasers in Surgery and Medicine, 2023
 - *Optical properties of Spectralon assessed by replication of literature data in Monte Carlo simulations* — SPIE Proceedings, 2022
-- *Condensation of water vapor from humid air inside vertical channels formed by flat plates* — iScience, 2022
+- *Condensation of water vapor from humid air inside vertical channels formed by flat plates* — iScience, 2021
 
 ---

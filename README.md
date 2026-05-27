@@ -2,6 +2,8 @@
 
 I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology, light-tissue interaction, and other fields of physics. Physicist by education, programmer by choice.
 
+📄 [CV / Resume](cv.pdf)
+
 ## What I work on
 
 - **Numerical simulations** — light-tissue interaction, laser resonators, magnetic field calculations etc.

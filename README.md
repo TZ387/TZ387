@@ -24,6 +24,8 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 **Exploring**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoColor=white)
 
 ## Languages
 

@@ -40,6 +40,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 
 - **[ArrheniusCalculator](https://github.com/TZ387/ArrheniusCalculator)** — Python + Qt/QML tool for Arrhenius calculations
 - **[darkcoverage](https://github.com/TZ387/darkcoverage)** — Python + Qt project
+- **[sl-ru-keyboard](https://github.com/TZ387/sl-ru-keyboard)** — Russian cyrillic layout for Slovenian keyboard (Linux)
 - Laser resonator simulation using 2D FFT (Julia)
 - 3D Radiofrequency simulation for arbitrary boundary conditions (Julia)
 - CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox (Matlab, C++, Cuda)

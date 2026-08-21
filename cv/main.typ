@@ -5,10 +5,10 @@
 )
 #info(
   name: "Tilen Žel",
-  phone:"+386-41-915-775",
+  //phone:"+386-41-915-775",
   email:"tilen.zel@gmail.com",
   location:"Ljubljana, Slovenia",
-  //github:"github.com/TZ387"
+  github:"github.com/TZ387"
 )
 
 

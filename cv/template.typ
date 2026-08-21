@@ -54,16 +54,16 @@
         [#box[#image("img/envelope-solid.svg")]
         #text(weight: "bold")[Email:]],
         link("mailto:" + email),
-        [#box[#image("img/phone-solid.svg")]
-          #text(weight: "bold")[Phone:]],
-        [#v(-0.5pt)#phone],
+        //[#box[#image("img/phone-solid.svg")]
+        //  #text(weight: "bold")[Phone:]],
+        //[#v(-0.5pt)#phone],
         [#box[#image("img/location.svg")]
           #text(weight: "bold")[Location:]],
         link("https://en.wikipedia.org/wiki/Ljubljana")[#location],
         // optional GitHub row -- uncomment together with the `github` call argument in main.typ
-        //[#box[#image("img/github.svg")]
-        //  #text(weight: "bold")[Github:]],
-        //link("https://" + github)[#github],
+        [#box[#image("img/github.svg")]
+          #text(weight: "bold")[Github:]],
+        link("https://" + github)[#github],
       )
     ],
     "",

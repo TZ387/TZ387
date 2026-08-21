@@ -15,14 +15,11 @@
 = Education
 
 #event(
-  //date:"GPA: 8.44",
   title:"University of Ljubljana",
   event:  link("https://www.fmf.uni-lj.si/en/")[ #v(0.2em) Faculty of Mathematics and Physics],
   location:"Master’s Degree (Physics)",
   indentation4:0.0em,
-)[ 
-
-]
+)[]
 #v(-0.8em)
 = Skills
 #v(-0.45em)
@@ -42,7 +39,7 @@ columns:(1.05fr,2fr),
   title: link("https://www.fotona.com/en/")[Fotona],
   event:"R&D Engineer",
   indentation4:0.00em,
-)[- Made major improvements in area of numerical simulations/*(using C, Matlab and CUDA)*/, which has led to significant benefits for research and regulatory approval of various devices.
+)[- Made major improvements in area of numerical simulations, which has led to significant benefits for research and regulatory approval of various devices.
 - Participated in research projects involving laser technology, laser treatments, and laser-tissue interaction]
 
 #event(
@@ -115,11 +112,3 @@ Created a simulation that determines 3D heat distribution in tissue after RF tre
   doi:"10.1016/j.isci.2021.103565 ",
   type:"journal",
 )
-
-/*
-= Referees
-#box(baseline: -20%)[#math.triangle.filled] #h(3pt) Dr. Boris Majaron: Senior scientist in the F7 department at IJS (boris.majaron\@ijs.si)\
-#box(baseline: -20%)[#math.triangle.filled] #h(3pt) Dr. Andrej Kitanovski: Head of the LAHDE department at FS (andrej.kitanovski\@fs.uni-lj.si)\
-#box(baseline: -20%)[#math.triangle.filled] #h(3pt) Dr. Luka Lorbek: Member of the LAHDE department at FS (luka.lorbek\@fs.uni-lj.si)\
-#box(baseline: -20%)[#math.triangle.filled] #h(3pt) Dr. Irena Hreljac: Clinical Affairs and IP Manager at Fotona (linkedin.com/in/irena-hreljac-0251248) 
-*/

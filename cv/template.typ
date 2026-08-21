@@ -1,24 +1,17 @@
-
 #let background = rgb(255, 255, 255)
 #let heading_color = rgb(53, 114, 180)
 #let body_color = rgb(34, 32, 36)
-
-
-
-#let font_en = "Arial"
 
 #let font_title = 18pt
 #let font_3p = 10.7pt
 #let font_4p = 10.3pt
 #let font_s4p = 10.3pt
 
-
 #let project(body) = {
   // margin
   set page(
     paper: "a4",
     margin: (top: 1.75cm, bottom: 1.75cm, left: 1.75cm, right: 1.75cm),
-   
     fill:background,
     header: grid(columns: (1fr,1fr,1fr),
       align(left)[],
@@ -67,13 +60,14 @@
         [#box[#image("img/location.svg")]
           #text(weight: "bold")[Location:]],
         link("https://en.wikipedia.org/wiki/Ljubljana")[#location],
+        // optional GitHub row -- uncomment together with the `github` call argument in main.typ
         //[#box[#image("img/github.svg")]
         //  #text(weight: "bold")[Github:]],
         //link("https://" + github)[#github],
-       
       )
     ],
     "",
+    // optional headshot -- uncomment to show img/SLIKA_CV.jpg next to the contact info
     //align(horizon)[#image("img/SLIKA_CV.jpg", width: 80%)],
   )
 }
@@ -93,7 +87,7 @@
     align(right+horizon)[#dateFn[#location]],
     [#v(0.55em) #event],
     align(right+horizon)[#v(0.55em) #dateFn[#v(indentation4)#date]],
-  ) 
+  )
   set text(size: font_s4p, fill: body_color)
   v(-2.1em)
 
@@ -156,24 +150,4 @@
     }
     }
   )
-}
-#let publication_legend() ={
-  let pad_size = 0.2em
-  let icon_size = 1em
-  // v(-0.3em)
-  grid(
-    columns: (pad_size, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, pad_size),
-    gutter: 0.3em,
-    "",
-    image("img/journal.svg"),
-    align(left+horizon)[Journal],
-    image("img/conference.svg"),
-    align(left+horizon)[Conference],
-    image("img/patent.svg"),
-    align(left+horizon)[Patent],
-    image("img/software.svg"),
-    align(left+horizon)[Software Copyright],
-    "",
-  )
-  v(-0.2em)
 }

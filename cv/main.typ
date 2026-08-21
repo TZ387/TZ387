@@ -28,12 +28,11 @@ columns:(1.05fr,2fr),
   rows: (20pt, 0pt),
   strong[#v(7pt)Languages and platforms:],
   [C/C++ #box(baseline: 30%,inset:1pt, image("img/cpp2.svg")) , Python #box(baseline: 30%,inset:1pt, image("img/python.svg")) , Matlab #box(baseline: 30%,inset:1pt, image("img/matlab.jpg")) , Julia #box(baseline: 30%,inset:1pt, image("img/julia.svg")), CUDA #box(baseline: 30%, image("img/cuda.svg"))],
-  strong[#v(-0.0pt)Other:],
+  strong[Other:],
   [Microsoft Office, LaTeX/Typst, Medical Physics, Photonics],
 )
 #v(0.3em)
 = Work experience
-#v(-0.0em)
 #event(
   date:"Sep 2021 - Present",
   title: link("https://www.fotona.com/en/")[Fotona],

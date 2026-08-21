@@ -26,7 +26,6 @@
 
   show heading: it => {
     show: smallcaps
-    v(0em)
     text(weight: "black",size:font_3p,fill:heading_color)[#it]
     v(-1em)
     line(length: 100%,stroke:0.08em+heading_color)
@@ -37,7 +36,7 @@
 }
 
 // personal information
-#let info(name: "", phone: "", email: "", location: "", github: "") = {
+#let info(name: "", email: "", location: "", github: "") = {
   v(-2em)
   grid(
     columns: (20fr,2fr,5fr),

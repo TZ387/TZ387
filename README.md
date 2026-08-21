@@ -2,7 +2,7 @@
 
 I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on numerical simulations for laser technology, light-tissue interaction, and other fields of physics. Physicist by education, programmer by choice.
 
-📄 [CV / Resume](cv.pdf)
+📄 [CV / Resume](tilen-zel-cv.pdf)
 
 ## What I work on
 

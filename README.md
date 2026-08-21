@@ -46,7 +46,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 - CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox (Matlab, C++, Cuda)
 
 ## Publications
-
+- *Monte Carlo analysis of diffuse reflectance spectroscopy using integrating spheres with an internal light source* — SPIE Proceedings, 2026
 - *Influence of tissue desiccation on critical temperature for thermal damage during Er:YAG laser skin treatments* — Lasers in Surgery and Medicine, 2023
 - *Optical properties of Spectralon assessed by replication of literature data in Monte Carlo simulations* — SPIE Proceedings, 2022
 - *Condensation of water vapor from humid air inside vertical channels formed by flat plates* — iScience, 2021

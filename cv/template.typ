@@ -19,7 +19,7 @@
       align(right)[],
     )
   )
-  set text(size: font_s4p);
+  set text(size: font_s4p)
   set list(body-indent:3pt)
 
   set par(justify: true)
@@ -58,7 +58,6 @@
         [#box[#image("img/location.svg")]
           #text(weight: "bold")[Location:]],
         link("https://en.wikipedia.org/wiki/Ljubljana")[#location],
-        // optional GitHub row -- uncomment together with the `github` call argument in main.typ
         [#box[#image("img/github.svg")]
           #text(weight: "bold")[Github:]],
         link("https://" + github)[#github],
@@ -109,7 +108,7 @@
 #let publication(authors:(),title:"",booktitle:"",location:"",number:"",page:"",date:"",doi:"",type:"",addtion:"") ={
   v(0.1em)
   grid(columns: (1.5em,1em, 10fr),
-  align()[
+  [
     #if type == "patent"{
       box[#image("img/patent.svg")]
     }

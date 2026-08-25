@@ -1,8 +1,6 @@
 #import "template.typ": *
 
-
-#show: project.with(
-)
+#show: project.with()
 #info(
   name: "Tilen Žel",
   //phone:"+386-41-915-775",
@@ -11,14 +9,12 @@
   github:"github.com/TZ387"
 )
 
-
 = Education
 
 #event(
   title:"University of Ljubljana",
-  event:  link("https://www.fmf.uni-lj.si/en/")[ #v(0.2em) Faculty of Mathematics and Physics],
+  event: link("https://www.fmf.uni-lj.si/en/")[ #v(0.2em) Faculty of Mathematics and Physics],
   location:"Master’s Degree (Physics)",
-  indentation4:0.0em,
 )[]
 #v(-0.8em)
 = Skills
@@ -26,7 +22,7 @@
 #grid(gutter: 5pt,
 columns:(1.05fr,2fr),
   rows: (20pt, 0pt),
-  strong[#v(7pt)Languages and platforms:],
+  align(horizon)[#strong[Languages and platforms:]],
   [C/C++ #box(baseline: 30%,inset:1pt, image("img/cpp2.svg")) , Python #box(baseline: 30%,inset:1pt, image("img/python.svg")) , Matlab #box(baseline: 30%,inset:1pt, image("img/matlab.jpg")) , Julia #box(baseline: 30%,inset:1pt, image("img/julia.svg")), CUDA #box(baseline: 30%, image("img/cuda.svg"))],
   strong[Other:],
   [Microsoft Office, LaTeX/Typst, Medical Physics, Photonics],
@@ -37,7 +33,6 @@ columns:(1.05fr,2fr),
   date:"Sep 2021 - Present",
   title: link("https://www.fotona.com/en/")[Fotona],
   event:"R&D Engineer",
-  indentation4:0.00em,
 )[- Made major improvements in area of numerical simulations, which has led to significant benefits for research and regulatory approval of various devices.
 - Participated in research projects involving laser technology, laser treatments, and laser-tissue interaction]
 
@@ -99,6 +94,6 @@ columns:(1.05fr,2fr),
   number:"",
   page:"1--26",
   date:"Jan. 2022",
-  doi:"10.1016/j.isci.2021.103565 ",
+  doi:"10.1016/j.isci.2021.103565",
   type:"journal",
 )

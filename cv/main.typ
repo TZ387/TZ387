@@ -61,20 +61,11 @@ columns:(1.05fr,2fr),
 = Projects
 #v(0.1em)
 
-*Magnetic simulation for arbitrary coils (Fotona):* _Matlab, C, CUDA_
+#projectItem(title:"Magnetic simulation for arbitrary coils (Fotona)",tools:"Matlab, C, CUDA")[Modified a Matlab toolbox for calculation of magnetic field, improved it to enable calculation of induced current in tissue, and accelerated it by enabling its computation on graphic card using C and CUDA.]
 
-#v(-0.2em)
-Modified a Matlab toolbox for calculation of magnetic field, improved it to enable calculation of induced current in tissue, and accelerated it by enabling its computation on graphic card using C and CUDA.
+#projectItem(title:"Simulation of capillary tubes (FS)",tools:"Matlab, C++, wxWidgets")[My work consisted of minor assistance in the creation of the original code in Matlab and re-implementation of the entire project to the C++ programming language, along with creation of a GUI.]
 
-*Simulation of capillary tubes (FS):* _Matlab, C++, wxWidgets_
-
-#v(-0.2em)
-My work consisted of minor assistance in the creation of the original code in Matlab and re-implementation of the entire project to the C++ programming language, along with creation of a GUI.
-
-*Simulation of radio-frequency heating (Fotona):* _Julia_
-
-#v(-0.2em)
-Created a simulation that determines 3D heat distribution in tissue after RF treatment for arbitrary (Dirichlet or Neumann) boundary conditions.
+#projectItem(title:"Simulation of radio-frequency heating (Fotona)",tools:"Julia")[Created a simulation that determines 3D heat distribution in tissue after RF treatment for arbitrary (Dirichlet or Neumann) boundary conditions.]
 
 = Publications
 #v(0.3em)

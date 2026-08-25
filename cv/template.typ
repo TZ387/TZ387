@@ -37,12 +37,11 @@
 
 // personal information
 #let info(name: "", email: "", location: "", github: "") = {
-  v(-2em)
+  v(-1em)
   grid(
     columns: (20fr,2fr,5fr),
     align(left+horizon)[
       // Contact information
-      #v(1em)
       #text([#name], weight: "black", size:font_title,fill:body_color)
       #set text(size:font_s4p,fill:body_color,)
       #set box(height: 1em,baseline: 20%)
@@ -82,10 +81,11 @@
 
   grid(
     columns: (1fr, 11em),
+    row-gutter: 0.55em,
     box()[#text(weight: "bold", size: font_4p, fill: body_color)[#title]],
     align(right+horizon)[#dateFn[#location]],
-    [#v(0.55em) #event],
-    align(right+horizon)[#v(0.55em) #dateFn[#v(indentation4)#date]],
+    [#event],
+    align(right+horizon)[#dateFn[#v(indentation4)#date]],
   )
   set text(size: font_s4p, fill: body_color)
   v(-2.1em)
@@ -98,6 +98,13 @@
   ]
   v(0.3em)
 }
+// project entry
+#let projectItem(title:"",tools:"",body) = [
+  *#title:* _#(tools)_
+
+  #v(-0.2em)
+  #body
+]
 // publication
 #let publication(authors:(),title:"",booktitle:"",location:"",number:"",page:"",date:"",doi:"",type:"",addtion:"") ={
   v(0.1em)

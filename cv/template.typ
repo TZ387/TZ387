@@ -11,7 +11,7 @@
   // margin
   set page(
     paper: "a4",
-    margin: (top: 1.75cm, bottom: 1.75cm, left: 1.75cm, right: 1.75cm),
+    margin: (top: 1.45cm, bottom: 1.45cm, left: 1.75cm, right: 1.75cm),
     fill:background,
     header: grid(columns: (1fr,1fr,1fr),
       align(left)[],

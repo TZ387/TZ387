@@ -60,8 +60,11 @@ columns:(1.05fr,2fr),
 
 #projectItem(title:"Simulation of capillary tubes (FS)",tools:"Matlab, C++, wxWidgets")[My work consisted of minor assistance in the creation of the original code in Matlab and re-implementation of the entire project to the C++ programming language, along with creation of a GUI.]
 
-#projectItem(title:"Simulation of radio-frequency heating (Fotona)",tools:"Julia")[Created a simulation that determines 3D heat distribution in tissue after RF treatment for arbitrary (Dirichlet or Neumann) boundary conditions.]
+#projectItem(title:"Laser resonator simulation using 2D FFT (Fotona)",tools:"Julia, CUDA")[Developed a simulation of laser cavity dynamics for both stable and unstable resonators using Fourier optics beam propagation, with optional GPU acceleration.]
 
+#v(-0.05em)
+_Further projects (Python, JavaScript, Matlab, Julia, QML, etc.) are available on my #link("https://github.com/TZ387")[GitHub] page._
+#v(-0.15em)
 = Publications
 #v(0.3em)
 #publication(

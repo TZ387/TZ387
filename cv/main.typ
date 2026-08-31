@@ -27,7 +27,21 @@ columns:(1.05fr,2fr),
   strong[Other:],
   [Microsoft Office, LaTeX/Typst, Medical Physics, Photonics],
 )
-#v(0.3em)
+#v(0.35em)
+
+= Projects
+#v(0.1em)
+
+#projectItem(title:"Magnetic simulation for arbitrary coils (Fotona)",tools:"Matlab, C, CUDA")[Modified a Matlab toolbox for calculation of magnetic field, improved it to enable calculation of induced current in tissue, and accelerated it by enabling its computation on graphic card using C and CUDA.]
+
+#projectItem(title:"Laser resonator simulation using 2D FFT (Fotona)",tools:"Julia, CUDA")[Developed a simulation of laser cavity dynamics for both stable and unstable resonators using Fourier optics beam propagation, with optional GPU acceleration.]
+
+#projectItem(title:"Simulation of capillary tubes (FS)",tools:"Matlab, C++, wxWidgets")[My work consisted of minor assistance in the creation of the original code in Matlab and re-implementation of the entire project to the C++ programming language, along with creation of a GUI.]
+
+#v(-0.05em)
+_Further projects (Python, JavaScript, Matlab, Julia, Qt/QML etc.) are available on my #link("https://github.com/TZ387")[GitHub] page._
+#v(-0.2em)
+
 = Work experience
 #event(
   date:"Sep 2021 - Present",
@@ -53,18 +67,7 @@ columns:(1.05fr,2fr),
 - Analyzed spectroscopic measurements and optically scattering materials by using and modifying the Monte Carlo method in the CUDA platform and the C programming language.]
 
 #v(-0.3em)
-= Projects
-#v(0.1em)
 
-#projectItem(title:"Magnetic simulation for arbitrary coils (Fotona)",tools:"Matlab, C, CUDA")[Modified a Matlab toolbox for calculation of magnetic field, improved it to enable calculation of induced current in tissue, and accelerated it by enabling its computation on graphic card using C and CUDA.]
-
-#projectItem(title:"Simulation of capillary tubes (FS)",tools:"Matlab, C++, wxWidgets")[My work consisted of minor assistance in the creation of the original code in Matlab and re-implementation of the entire project to the C++ programming language, along with creation of a GUI.]
-
-#projectItem(title:"Laser resonator simulation using 2D FFT (Fotona)",tools:"Julia, CUDA")[Developed a simulation of laser cavity dynamics for both stable and unstable resonators using Fourier optics beam propagation, with optional GPU acceleration.]
-
-#v(-0.05em)
-_Further projects (Python, JavaScript, Matlab, Julia, Qt/QML etc.) are available on my #link("https://github.com/TZ387")[GitHub] page._
-#v(-0.15em)
 = Publications
 #v(0.3em)
 #publication(

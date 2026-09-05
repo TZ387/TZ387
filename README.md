@@ -40,6 +40,7 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 ## A few things I've built
 
 - **[ArrheniusCalculator](https://github.com/TZ387/ArrheniusCalculator)** — Python + Qt/QML tool for Arrhenius calculations
+- **[Fluxel2](https://github.com/TZ387/Fluxel2)** — Tauri desktop app (Rust + TypeScript) simulating light transport in tissue via the diffusion approximation; three models, volume rendering, port of Fluxel
 - **[darkcoverage](https://github.com/TZ387/darkcoverage)** — Python + Qt project
 - **[sl-ru-keyboard](https://github.com/TZ387/sl-ru-keyboard)** — Russian cyrillic layout for Slovenian keyboard (Linux)
 - Laser resonator simulation using 2D FFT (Julia)

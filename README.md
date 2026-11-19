@@ -43,8 +43,8 @@ I am R&D/Software Engineer at [Fotona](https://www.fotona.com/), working on nume
 - **[Fluxel2](https://github.com/TZ387/Fluxel2)** — Tauri desktop app (Rust + TypeScript) simulating light transport in tissue via the diffusion approximation; three models, volume rendering, port of Fluxel
 - **[darkcoverage](https://github.com/TZ387/darkcoverage)** — Python + Qt tool that grids an image and measures dark/light area coverage per cell against adjustable thresholds
 - **[sl-ru-keyboard](https://github.com/TZ387/sl-ru-keyboard)** — Russian cyrillic layout for Slovenian keyboard (Linux)
+- **[ProjectRF](https://github.com/TZ387/ProjectRF)** — 3D Radiofrequency simulation for arbitrary boundary conditions (Julia)
 - Laser resonator simulation using 2D FFT (Julia)
-- 3D Radiofrequency simulation for arbitrary boundary conditions (Julia)
 - CUDA-accelerated magnetic field simulation extended from a MATLAB toolbox (Matlab, C++, Cuda)
 
 ## Publications
